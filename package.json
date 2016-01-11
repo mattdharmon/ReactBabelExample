@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "node_module/.bin/babel src -d dist"
+    "build": "node_modules/.bin/babel src -d dist"
   },
   "keywords": [],
   "author": "",
